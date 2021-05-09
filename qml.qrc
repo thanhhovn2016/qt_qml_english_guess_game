@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainForm.ui.qml</file>
+        <file>try.js</file>
+        <file>Sprite.qml</file>
+        <file>listv.qml</file>
+        <file>zone.qml</file>
+        <file>ssview.qml</file>
+        <file>test.js</file>
+        <file>Employee.qml</file>
+        <file>Manager.qml</file>
+        <file>yellow.qml</file>
+        <file>none.qml</file>
+        <file>SelfDestroyingRect.qml</file>
+        <file>javascript_object.js</file>
+        <file>mainext.qml</file>
+        <file>PlaceDetails.qml</file>
+        <file>PlaceDetailsstep1.qml</file>
+        <file>mycomp.qml</file>
+        <file>clicked.js</file>
+        <file>Init.js</file>
+        <file>Details.qml</file>
+    </qresource>
+</RCC>
